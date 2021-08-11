@@ -1,3 +1,4 @@
 export default {
-    currentCategory:{categoryName:"bav"}
+    currentCategory:{},
+    categories:[]
 }
